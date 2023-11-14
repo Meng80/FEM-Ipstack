@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568566114204",
+    "project_id": "ipstack-5abdc",
+    "storage_bucket": "ipstack-5abdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568566114204:android:4f772a397bbe5f532f0a59",
+        "android_client_info": {
+          "package_name": "es.upm.miw.ipstack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8a8PGkz1ZW9dN-ssVMFGYHs4dA1SMs6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

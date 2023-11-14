@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Ipstack</string>
+
+    <string name="signed_in">Signed in!</string>
+    <string name="signed_out">Signed out!</string>
+    <string name="signed_cancelled">Signed in cancelled</string>
+    <string name="login_button">Start</string>
+    <string name="logoutTitle">Log out</string>
+    <string name="historyTitle">History</string>
+    <string name="logout_button">Logout</string>
+
+
+    <string name="ipstackTitle">Ipstack</string>
+    <string name="txtIpstackDetailsIp">ZIP:</string>
+    <string name="txtIpstackDetailsCountry">Country:</string>
+    <string name="txtIpstackDetailsCity">City:</string>
+    <string name="txtIpstackDetailsRegion">Region:</string>
+    <string name="tvIP">RandomIP:</string>
+    <string name="btnDescripcion">Boton</string>
+    <string name="history_button">History</string>
+
+
 </resources>
